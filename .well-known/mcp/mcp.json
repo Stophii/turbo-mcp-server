@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "name": "Turbo Game Context Server",
+  "description": "This server holds code context for my Turbo game projects.",
+  "models": [
+    {
+      "id": "hangar-files",
+      "name": "Hangar Codebase",
+      "description": "Contains core game logic for analysis and cleanup.",
+      "files": [
+        "src/assembly.rs",
+        "src/lib.rs",
+        "src/mission.rs",
+        "src/nav.rs",
+        "src/part.rs",
+        "src/particles.rs",
+        "src/rewards.rs",
+        "src/solar.rs",
+        "src/status.rs",
+        "src/tools.rs",
+        "src/enemy.rs",
+        "src/explore.rs",
+        "src/function.rs",
+        "src/hangar.rs",
+        "src/icon.rs",
+        "src/item.rs",
+        "src/statemachine.rs",
+        "src/player.rs"
+      ]
+    }
+  ]
+}
